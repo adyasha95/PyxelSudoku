@@ -7,4 +7,4 @@ This a game of sudoku written by Nick
 # How to run this code
 ```{bash}
 python sudoku.py
-```
+``` 
