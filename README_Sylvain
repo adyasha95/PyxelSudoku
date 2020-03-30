@@ -1,0 +1,10 @@
+# Pyxel_Sudoko
+This a game of sudoku written by Nick
+
+#Set-up
+
+
+# How to run this code
+```{bash}
+python sudoku.py
+```
